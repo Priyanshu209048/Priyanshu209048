@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Hi 👋, I'm Priyanshu Baral</h1>
-<p>Passionate Java Developer and Software Engineer, dedicated to creating robust and efficient solutions. Experienced in leveraging cutting-edge technologies to drive innovation in software development.</p>
+<h1 align="center">Hi 👋, I'm Priyanshu Baral</h1>
+<p align="center">Passionate Java Developer and Software Engineer, dedicated to creating robust and efficient solutions. Experienced in leveraging cutting-edge technologies to drive innovation in software development.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
@@ -35,8 +35,6 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a></p>
-
-<img align="right" alt="coding" src="https://camo.githubusercontent.com/9a7dd4943a1aa637a9542c4080448aa1c767b3e24ec9a33e0dcc3643d944500f/68747470733a2f2f6d656469612e74656e6f722e636f6d2f77686751774e6c56764e6b41414141692f7865726f2d636f64652e676966" data-canonical-src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/priyanshu-baral-944967199/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
